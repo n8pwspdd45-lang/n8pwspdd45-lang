@@ -40,10 +40,6 @@ Bioinformatics, to me, feels like that: **analysis in service of answers**.
 Not just coding for the sake of coding, but coding to understand something
 about life. That's what draws me in.
 
-I'm not sure yet if it's my future. That's the whole point of trying.
-I'd rather spend a year figuring out that I don't like something,
-than spend a lifetime wondering "what if".
-
 ---
 
 ## What you'll find here
@@ -58,8 +54,7 @@ than spend a lifetime wondering "what if".
 
 - Perfect code. I'm not there yet.
 - 10 years of experience. I have 1.
-- A portfolio polished for recruiters.
-  This is a *work in progress*, not a finished product.
+- A portfolio polished for recruiters. This is a *work in progress*, not a finished product.
 
 ---
 
