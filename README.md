@@ -18,7 +18,7 @@ I'm 21, and I'm learning Python *now*. From scratch.
 ## What I'm actually doing
 
 - 📘 **CS50P (Harvard)** — Introduction to Programming with Python.
-  Currently fighting my way through it, one `for` loop at a time.
+  Currently fighting my way through it.
 - 🧬 **Rosalind** — bioinformatics exercises to figure out if this is
   something I could actually do for a living. (Spoiler: still deciding.)
 - 🐍 **Learning_log** — my personal notebook. A place to make mistakes,
